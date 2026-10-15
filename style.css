@@ -1,0 +1,33 @@
+nav.menu {
+    background-color: darkred;
+    padding: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+nav .nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin-right: 15px;
+}
+
+nav.menu a:hover {
+    background-color: rgb(187, 25, 25);
+    border-radius: 5px;
+}
+
+.equipes {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+}
+
+.F_detalhes {
+    border: 2px solid darkred;
+    padding: 16px;
+    border-radius: 8px;
+    max-width: 500px;
+    margin: 0 auto;
+}
