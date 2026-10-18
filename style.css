@@ -14,7 +14,7 @@ nav.menu a {
 }
 
 nav.menu a:hover {
-    background-color: rgb(187, 25, 25);
+    background-color: rgb(179, 25, 25);
     border-radius: 5px;
 }
 
@@ -25,9 +25,18 @@ nav.menu a:hover {
 }
 
 .F_detalhes {
-    border: 2px solid darkred;
+    border: 2px solid rgb(0, 0, 0);
     padding: 16px;
     border-radius: 8px;
     max-width: 500px;
     margin: 0 auto;
+}
+
+.card {
+    border: 2px solid rgb(15, 0, 0);
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
