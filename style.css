@@ -6,7 +6,7 @@ nav.menu {
     justify-content: center;
 }
 
-nav .nav a {
+nav.menu a {
     color: white;
     text-decoration: none;
     padding: 10px;
