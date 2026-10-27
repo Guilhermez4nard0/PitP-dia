@@ -61,3 +61,102 @@ nav.menu a:hover {
     border-bottom: 2px solid #dc0000;
     padding-bottom: 6px;
 }
+
+.ferrari {
+    border-color: #dc0000;
+}
+
+.ferrari h2 {
+    color: #dc0000;
+    border-bottom-color: #dc0000;
+}
+
+.aston-martin {
+    border-color: #006f62;
+}
+
+.aston-martin h2 {
+    color: #006f62;
+    border-bottom-color: #006f62;
+}
+
+.audi {
+    border-color: #bb0a30;
+}
+
+.audi h2 {
+    color: #bb0a30;
+    border-bottom-color: #bb0a30;
+}
+
+.alpine {
+    border-color: #0090ff;
+}
+
+.alpine h2 {
+    color: #0090ff;
+    border-bottom-color: #0090ff;
+}
+
+.cadillac {
+    border-color: #1f2d33;
+}
+
+.cadillac h2 {
+    color: #1f2d33;
+    border-bottom-color: #1f2d33;
+}
+
+.mclaren {
+    border-color: #ff8700;
+}
+
+.mclaren h2 {
+    color: #ff8700;
+    border-bottom-color: #ff8700;
+}
+
+.mercedes {
+    border-color: #00a19b;
+}
+
+.mercedes h2 {
+    color: #00a19b;
+    border-bottom-color: #00a19b;
+}
+
+.red-bull {
+    border-color: #1e41ff;
+}
+
+.red-bull h2 {
+    color: #1e41ff;
+    border-bottom-color: #1e41ff;
+}
+
+.haas {
+    border-color: #b6babd;
+}
+
+.haas h2 {
+    color: #111111;
+    border-bottom-color: #b6babd;
+}
+
+.racing-bulls {
+    border-color: #6692ff;
+}
+
+.racing-bulls h2 {
+    color: #6692ff;
+    border-bottom-color: #6692ff;
+}
+
+.williams {
+    border-color: #00a3e0;
+}
+
+.williams h2 {
+    color: #00a3e0;
+    border-bottom-color: #00a3e0;
+}
