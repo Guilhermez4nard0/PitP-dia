@@ -24,6 +24,17 @@ nav.menu a:hover {
     gap: 10px;
 }
 
+.pilotos {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+.pilotos .card:nth-child(even) {
+    margin-top: 40px;
+}
+
 .detalhes {
     border: 2px solid rgb(0, 0, 0);
     padding: 16px;
